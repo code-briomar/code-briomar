@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @code-briomar.
 - 👀 I’m interested in java, php, javascript and c programming.
 - 💞️ I’m looking to collaborate on making lightweight java apps
-- 📫 How to reach me https://briomar.co.ke or kapolonbraine@gmail.com
+- 📫 How to reach me https://briomar.co.ke or kapolonbraine@briomar.co.ke
