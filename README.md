@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @code-briomar.
-- 👀 I’m interested in java, php, javascript and c programming.
+- 👋 Hi, I’m Briane Lomoni.
+- 👀 I’m interested in php and mysql
 - 💞️ I’m looking to collaborate on making lightweight java apps
-- 📫 How to reach me https://briomar.co.ke or kapolonbraine@briomar.co.ke
+- 📫 How to reach me : Email me at kapolonbraine@gmail.com
